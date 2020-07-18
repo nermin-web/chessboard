@@ -1,0 +1,31 @@
+#chessboard {
+    text-align: center;
+}
+
+.polja {
+    vertical-align:middle;
+    display: inline-block;
+    background-color: white;
+    border: solid black 1px;
+    padding: 50px;
+}
+
+.black {
+    background-color: black;
+}
+
+.letters {
+    display: inline-block;
+    padding: 5px 44px;
+}
+
+.corner {
+    display: inline-block;
+}
+
+.numbers {
+    vertical-align:middle;
+    display: inline-block;
+    background-color: white;
+    padding: 41px 10px;
+}
